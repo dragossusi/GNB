@@ -1,0 +1,2 @@
+include ':app', ':gnbapi'
+rootProject.name='GNB'
